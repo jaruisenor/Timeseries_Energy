@@ -4,6 +4,8 @@ This project is about making a series of forecast over an Energy consumption dat
 ## Objectives
 The repository considers 2 full analysis of the use of Facebook Prophet for timeseries prediction and modelling, as well as the use of ARIMA (autoregressive integrated moving averages) model in order to succesfully predict energy consumption timeseries data.
 
+There where some advances in the the attempts to predict the last year data using machinelearning techniques (Gradient Boosted Regression Trees), with some EDA and feature engineering, this can be seen in the file Timseries_ML.ipynb.
+
 The next step in the project, is the completion of the prediction of timeseries data using deeplearning techniques. The project is in stand by, further knowledge of Deep Learning tehcniques for timeseries, such as recurrent neural networks and convolutional architecures, needed to be gained in order to fully understand the alogrythm. Further work on this dtaset will be continued reformulating data wrangling methods (better order of the data) and succesful predictions using RNN.
 
 #Project in stand by#
